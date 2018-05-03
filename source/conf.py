@@ -18,7 +18,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Bartending'
+project = u'Building a computer'
 copyright = u'2018, Andrew Karpowicz'
 author = u'Andrew Karpowicz'
 
