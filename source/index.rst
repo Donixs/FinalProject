@@ -1,5 +1,7 @@
-Building your own computer
-###############################
+How to build your own computer
+==============================
+by Andrew Karpowicz
+-------------------------------
 
 .. |Contents| replace:: Table of Contents
 
