@@ -14,7 +14,7 @@ Motherboards are the connecting piece of all computers. Everything at some point
 
 .. figure:: images/ATXpicture.jpg
     :alt: A demonstrative picture of a motherboard, showing the thre standard sizes of motherboards, from ATX, microATX, and m-ITX
-    :scale: 50%
+    :scale: 50 %
 
     Figure 2
 
