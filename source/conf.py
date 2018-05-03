@@ -56,6 +56,11 @@ pygments_style = 'sphinx'
 # If true, keep warnings as "system message" paragraphs in the built documents.
 # keep_warnings = False
 
+#How to include files in every other file
+rst_epilog = """
+.. include:: substitionfolder/*.rst
+.. include:: substitutions.rst
+"""
 
 #html_theme = 'default'
 html_theme = 'default'
