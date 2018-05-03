@@ -3,4 +3,5 @@
     :scale: 50 %
 
     Figure 2
+
 .. |TEST| replace:: Soup
