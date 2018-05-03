@@ -1,4 +1,4 @@
-Get Started with Bartending
+Building your own computer
 ###############################
 
 .. |Contents| replace:: Table of Contents
@@ -8,8 +8,8 @@ Get Started with Bartending
 .. toctree::
    :maxdepth: 1
 
-   part-1
-   part-2
-   part-3
+   TitlePage
+   ChapterTwo
+   ChapterThree
 
 .. add new files to list above to include them in toc
