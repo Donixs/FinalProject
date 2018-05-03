@@ -1,3 +1,3 @@
-.. |Jigger-Image| image:: get_started_sphinx/images/jigger[1].png
-        :alt: A measuring cup known as a Jigger, usually metallic and have fluid ounce measuring cups on each side of it.
+.. |ATXpicture| image:: ATXpicture.jpg
+        :alt: A demonstrative picture of a motherboard, showing the thre standard sizes of motherboards, from ATX, microATX, and m-ITX
         :width: 400
