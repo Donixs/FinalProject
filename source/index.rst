@@ -1,3 +1,7 @@
+*********************
+Table of Contents
+*********************
+
 .. |Contents| replace:: Table of Contents
 
 |Contents|
@@ -10,6 +14,5 @@
    ChapterTwo
    ChapterThree
    ChapterFour
-   IndexPage
 
 .. add new files to list above to include them in toc

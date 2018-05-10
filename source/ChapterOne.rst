@@ -1,6 +1,7 @@
 ***************
 1. Introduction
 ***************
+
 Building your computer can be a fulfilling task where with the right parts, you can create a fully functioning personal computer. Building a personal computer is an interesting hobby that is constantly evolving with advances in technology. While people think this continuous progress may invalidate their computers, some workplaces use parts from 2011 and are still capable computers for simple workloads like Microsoft Office, Internet Explorer, and emailing. Depending on your workloads and preferences, your computer can last you upward of five or six years, barring any issues. 
 
 Building your own computer offers benefits such as saving money as opposed to buying a prebuilt computer, personalizing your computer to your workload, and even tailoring the aesthetics of the PC. Moreover, but depending on the type of component and manufacturer, you are more likely to get better warranties than prebuilt computers. 
