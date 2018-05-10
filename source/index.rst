@@ -11,6 +11,7 @@ by Andrew Karpowicz
    :maxdepth: 1
 
    TitlePage
+   ChapterOne
    ChapterTwo
    ChapterThree
 
