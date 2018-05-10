@@ -14,7 +14,7 @@ Motherboards are the connecting piece of all computers. Everything at some point
 
 |ATXpicture|
 
-|TEST|
+*Figure 2* Varying motherboard size standards.
 
 3. Once the standoffs are screwed in, slide the IO shield into the back of the case until you hear a click. Caution, the IO shields are usually made of aluminum and have sharp edges, which can cause minor cuts.
 4. Once the IO shield and gold standoffs are in place, align the IO panel of the motherboard and the IO shield together, then gently slide the motherboard into place. The IO panel should slip into the IO shield and the motherboard should align with the standoffs.
