@@ -127,7 +127,7 @@ Graphic cards are components that render and display content on monitors or TVs.
 
 1.	Begin by taking off any plastic layering that may be on the graphics card. There should also be a plastic cap over the golden pins, as depicted in figure 7.
  
- |GPUpicture|
+|GPUpicture|
  
 *Figure 7*
 
