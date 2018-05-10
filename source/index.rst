@@ -10,6 +10,6 @@
    ChapterTwo
    ChapterThree
    ChapterFour
-   Index
+   IndexPage
 
 .. add new files to list above to include them in toc
