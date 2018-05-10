@@ -98,3 +98,19 @@ Now the next step is varied based on the motherboard and CPU, so this step may b
 3.	Begin screwing in the CPU cooler in the cross-method until all are screwed in halfway, then tight them so that the cooler is firmly in place, but be wary of over-tightening. 
 
 4.	Take the cable coming from the stock cooler and look for pins on the motherboard that are labeled "CPU_FAN". Take your cable and slide them into the pins. This will provide power to the stock cooler and ensure it works.
+
+
+3.6 Setting up system case panel
+================================
+
+3.6.1 Introduction
+-------------------
+All motherboards come with a system panel that allow you to connect the cables from your case that provide functions such as the power button and LEDs. Each cable almost always includes a power and ground wire. Refer to your motherboard manual and computer case manual to figure out the proper orientation for your cables. Below is a picture of system panel partially filled.
+ 
+|IOpicture|
+
+*Figure 6*
+
+3.6.2 Installtion
+------------------
+Gently slide the cables onto the pins once orientation has been determined.
