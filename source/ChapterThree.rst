@@ -35,3 +35,27 @@ The PSU attaches to the back of the inside of the case, and depending on how mod
 |PSUpicture|
 
 *Figure 3 (Strohmeyer 2011)*
+
+3.3 Installing the CPU
+======================
+3.3.1 Introduction
+------------------
+
+The next step requires caution and double checking before proceeding. Failure to ensure this can cause destruction of components. All modern CPUs and motherboards follow the standardized orientation of the CPU. The socket at the center of the motherboard will have a lever and metal latch. 
+
+3.3.2 Installation
+------------------
+
+1.	Pull the lever outward lightly and lift it up, then lift the latch up. This will expose the socket, look it over carefully. You should note two little plastic bulges on each side of the socket, and a small outlined triangle in one of the corners. 
+
+2.	Take your CPU and take note of the indents on the sides of it, and the golden triangle on the corner of the CPU. Follow the orientation of the socket and place the CPU into the socket. The two indents should be filled by the plastic bulges, and the golden triangle should cover the outline of the triangle. Figure 4 is an example of a correctly oriented CPU.
+
+|CPUpicture|
+
+Figure 4(Saunders 2014)
+
+3.	Pull down the latch and then begin slowly but firmly pulling down the lever. You should feel pressure building up on the CPU, this is fine as the latch is ensuring the CPU is making contact the motherboard. Once the latch is completely pulled down, slip the hook into the socket so it does not lift again.
+
+4.	Depending on your PSU, your PSU should have cables attached to it that face into the case or be provided with cables that can be plugged into the PSU. There are two cables we need to worry about right now, the large 24-pin connector, and the 8-pin connector. Each should be labeled accordingly. The 24-pin connector should fit into the motherboard on the right side of it, orient the pin correctly as there is a latch on the connector, slip the connector into the slot and the latch should hook on. 
+
+5.	The next connector will be the CPU connector, the slot should be near the top left of the motherboard, near the CPU. Slip the CPU connector into the slot, and the latch should hook on. 
