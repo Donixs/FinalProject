@@ -63,7 +63,7 @@ rst_epilog = """
 """
 
 #html_theme = 'default'
-html_theme = 'default'
+html_theme = 'nature'
 
 
 

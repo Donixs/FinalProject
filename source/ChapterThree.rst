@@ -1,11 +1,21 @@
 ************************************
 3. Putting these components together
 ************************************
+
+.. index:: Motherboard
+
 3.1 Installing the motherboard
 ==============================
+
+.. index:: 
+	single: Motherboard; Introduction
+
 3.1.1 Introduction
 ------------------
 Motherboards are the connecting piece of all computers. Everything at some point connects through the motherboard. Whether it is the computer fans or the CPU, all components go through it. They come in a variety of form factors but the most common ae ATX and mATX.
+
+.. index:: 
+	single: Motherboard; Installation
 
 3.1.2 Installation
 ------------------
@@ -20,11 +30,21 @@ Motherboards are the connecting piece of all computers. Everything at some point
 4. Once the IO shield and gold standoffs are in place, align the IO panel of the motherboard and the IO shield together, then gently slide the motherboard into place. The IO panel should slip into the IO shield and the motherboard should align with the standoffs.
 5. Use the provided motherboard screws and screw the motherboard into the standoffs. A preferred method is the Cross-method, screwing in halfway top left, then bottom right, then top right, then bottom left, then center screws. Once all screws are in, fully tighten them. 
 
+.. index:: 
+	single: PSU
+	see: Power Supply Unit; PSU
+
 3.2 Installing the Power Supply Unit
 ====================================
+
+.. index:: 
+	single: PSU; Introduction
+
 3.2.1 Introduction
 ------------------
 The PSU attaches to the back of the inside of the case, and depending on how modern your case is, it could be attached to the top or the bottom. This step will require both hands, one hand to screw the PSU in and another to hold it up if you are attaching to the top of the case. The PSU should have a fan at the bottom of it, which almost always faces downward. If the bottom of your case does not have an opening for the PSU fan, it may be required to face it upward, refer to your computer case manual in such situations. 
+
+.. index:: PSU; Installation
 
 3.2.2 Installation
 ------------------
@@ -36,12 +56,21 @@ The PSU attaches to the back of the inside of the case, and depending on how mod
 
 *Figure 3 (Strohmeyer 2011)*
 
+.. index:: 
+	single: CPU
+	see: Central Processing Unit; CPU
+
 3.3 Installing the CPU
 ======================
+
+.. index:: CPU; Introduction
+
 3.3.1 Introduction
 ------------------
 
 The next step requires caution and double checking before proceeding. Failure to ensure this can cause destruction of components. All modern CPUs and motherboards follow the standardized orientation of the CPU. The socket at the center of the motherboard will have a lever and metal latch. 
+
+.. index:: CPU; Installation
 
 3.3.2 Installation
 ------------------
@@ -60,8 +89,15 @@ The next step requires caution and double checking before proceeding. Failure to
 
 5.	The next connector will be the CPU connector, the slot should be near the top left of the motherboard, near the CPU. Slip the CPU connector into the slot, and the latch should hook on. 
 
+.. index:: 
+	single: RAM
+	see: Random Access Memory; RAM
+
 3.4 Installing the RAM
 ======================
+
+.. index:: RAM; Introduction
+
 3.4.1 Introduction
 ------------------
 The next step is placing in the RAM. Depending on your purchase, you may have one or two sticks of RAM (or more, but general consumers usually purchase one or two due to cost efficiency). This will be one of the few steps where you will need to apply some force, but a delicate amount of force. Look at your RAM stick(s) and examine the gold pins at the bottom. There should be a little gap between them. Now look at the motherboard and see the RAM slots, and there should be a protruding spot, inverse of the RAM stick. Figure 5 should explain the orientation.
@@ -69,6 +105,8 @@ The next step is placing in the RAM. Depending on your purchase, you may have on
 |RAMpicture|
 
 *Figure 5*
+
+.. index:: RAM; Installation
 
 3.4.2 Installation
 -------------------
@@ -81,12 +119,18 @@ The next step is placing in the RAM. Depending on your purchase, you may have on
 
 5.	Repeat this entire step for however many RAM sticks you have.
 
+.. index:: CPU cooler
 
 3.5 Installing CPU cooler
 =========================
+
+.. index:: CPU cooler; Introduction
+
 3.5.1 Introduction
 ------------------
 Now the next step is varied based on the motherboard and CPU, so this step may be different for yours. Be sure to read the manual given to you based on whether you are using a stock cooler or an aftermarket cooler. For this section we will refer do the two most recent sockets, Intel's LGA1151 and AMD's AM4 socket. Both stock coolers have similar installation, there may only be one extra step for AMD users. Take note that while the stock coolers are similar in design, you cannot switch between them. An AMD stock cooler will not work on an Intel motherboard, or vice versa. AMD motherboards sometimes have a mounting bracket already installed, unscrew these brackets from your motherboard.
+
+.. index:: CPU cooler; Installation
 
 3.5.2 Installation
 ------------------
@@ -99,9 +143,13 @@ Now the next step is varied based on the motherboard and CPU, so this step may b
 
 4.	Take the cable coming from the stock cooler and look for pins on the motherboard that are labeled "CPU_FAN". Take your cable and slide them into the pins. This will provide power to the stock cooler and ensure it works.
 
+.. index:: system case panel
 
 3.6 Setting up system case panel
 ================================
+
+.. index:: system case panel; Introduction
+
 
 3.6.1 Introduction
 -------------------
@@ -111,16 +159,29 @@ All motherboards come with a system panel that allow you to connect the cables f
 
 *Figure 6*
 
+.. index:: system case panel; Installation
+
+
 3.6.2 Installtion
 ------------------
 Gently slide the cables onto the pins once orientation has been determined.
 
 
+.. index::
+	single: Graphics Card
+	see: GPU; Graphics Card
+
+
 3.7 Installing Graphics Card
 =============================
+
+.. index:: Graphics Card; Introduction
+
 3.7.1 Introduction
 -------------------
 Graphic cards are components that render and display content on monitors or TVs. They are designed to fit into PCIE slots but can vary in size and length. Some graphic cards require power cables from the PSU so have the PSU to PCIE cables ready.
+
+.. index:: Graphics Card; Installation
 
 3.7.2 Installation
 -------------------
@@ -142,11 +203,24 @@ Graphic cards are components that render and display content on monitors or TVs.
 
 4.	If your graphics card requires additional power, grab the 6+2 pin cable from the PSU and attach it into the power slots of the graphics card.
 
+.. index:: 
+	single: HDD
+	single: SSD
+
 3.8 Installing the Hard Disk Drive(s)/Solid State Drive(s)
 ==========================================================
+
+.. index:: 
+	single: HDD; Introduction
+	single: SSD; Introduction
+
 3.8.1 Introduction
 -------------------
 Hard Disk Drive (HDDs) and Solid-State Drives (SSDs) are the place where data is stored while the computer is off. They both accomplish the same task but in different methods, but the installation is the same for both. Two cables are required. A 15 pin SATA power connector and a 7 pin SATA data connector. The 15 pin comes with the power supply unit and should be attached to it, while the 7 pin will come with the HDD/SSD. Before installation, insert one end of the 7 pin connector into the motherboard SATA ports.
+
+.. index::
+	single: HDD; Installation
+	single: SSD; Installation
 
 3.8.2 Installation
 -------------------
