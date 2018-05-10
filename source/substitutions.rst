@@ -3,3 +3,7 @@
     :scale: 50 %
     
 .. |TEST| replace:: Soup
+
+.. |PSUpicture| image:: images/PSUpicture.jpg
+    :alt: A demonstrative picture of screwing a PSU into place.
+    :scale: 50 %
