@@ -1,8 +1,3 @@
-How to build your own computer
-==============================
-by Andrew Karpowicz
--------------------------------
-
 .. |Contents| replace:: Table of Contents
 
 |Contents|
@@ -15,5 +10,6 @@ by Andrew Karpowicz
    ChapterTwo
    ChapterThree
    ChapterFour
+   Index
 
 .. add new files to list above to include them in toc
