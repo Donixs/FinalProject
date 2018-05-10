@@ -141,3 +141,18 @@ Graphic cards are components that render and display content on monitors or TVs.
 3.	Once the covers are removed, slide the graphics card's gold pin connector into the PCIE slot, ensuring it has been oriented. An audible click should be heard once the graphics card is fully inserted into the PCIE slot. The metal cover at the end of the graphics card should effectively replace the removed covers.
 
 4.	If your graphics card requires additional power, grab the 6+2 pin cable from the PSU and attach it into the power slots of the graphics card.
+
+3.8 Installing the Hard Disk Drive(s)/Solid State Drive(s)
+==========================================================
+3.8.1 Introduction
+-------------------
+Hard Disk Drive (HDDs) and Solid-State Drives (SSDs) are the place where data is stored while the computer is off. They both accomplish the same task but in different methods, but the installation is the same for both. Two cables are required. A 15 pin SATA power connector and a 7 pin SATA data connector. The 15 pin comes with the power supply unit and should be attached to it, while the 7 pin will come with the HDD/SSD. Before installation, insert one end of the 7 pin connector into the motherboard SATA ports.
+
+3.8.2 Installation
+-------------------
+1.	Refer to the case's manual on how HDDs/SSDs are mounted in the case. Some cases come with disk cages, some have them mounted on the side panels.
+2.	Once the drive(s) are mounted, insert the 15 pin connector onto the 15 pinout, then insert the 7 pin connector into the 7 pinout (as depicted by figure 9).
+
+|HDDpicture|
+
+*Figure 9*
