@@ -2,10 +2,6 @@
 Table of Contents
 *********************
 
-.. |Contents| replace:: Table of Contents
-
-|Contents|
-
 .. toctree::
    :maxdepth: 1
    
@@ -13,5 +9,3 @@ Table of Contents
    ChapterTwo
    ChapterThree
    ChapterFour
-
-.. add new files to list above to include them in toc
