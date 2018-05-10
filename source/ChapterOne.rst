@@ -9,6 +9,6 @@ Building your own computer offers benefits such as saving money as opposed to bu
 ==========================================
 Building computers has been an enthusiasts' field for a long time, and before the late 80s it was limited to specialists who had a background in computer science and electrical engineering. During the late 80s though, IBM began standardizing a great deal of components, allowing for a wider audience. People could buy these standardized parts from shops and with some research were able to assemble the computer and use them for personal use. As the years went on, computers became more common in day to day life, and hobbyist and enthusiasts could enter the market as the industry continue to grow to massive proportions. Many corporations sold products not only as OEM (Original Equipment Manufacturer; parts sold to other companies such as Dell, HP, etc.), but also to consumers. Corporations like Intel, AMD, Nvidia, ASUS, EVGA sell their products to not just other companies, but as standalone products to consumers. Nvidia released a quarterly trend at the close of their Q4FY16, showing a steady increase in their "gaming" (consumer variant) revenue, as shown below.
 
-|NvidiaGraph.jpg|
+|NvidiaGraph|
 
 *Figure 1(Mujtaba, 2015)*
