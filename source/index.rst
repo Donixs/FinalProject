@@ -14,5 +14,6 @@ by Andrew Karpowicz
    ChapterOne
    ChapterTwo
    ChapterThree
+   ChapterFour
 
 .. add new files to list above to include them in toc
