@@ -59,3 +59,20 @@ The next step requires caution and double checking before proceeding. Failure to
 4.	Depending on your PSU, your PSU should have cables attached to it that face into the case or be provided with cables that can be plugged into the PSU. There are two cables we need to worry about right now, the large 24-pin connector, and the 8-pin connector. Each should be labeled accordingly. The 24-pin connector should fit into the motherboard on the right side of it, orient the pin correctly as there is a latch on the connector, slip the connector into the slot and the latch should hook on. 
 
 5.	The next connector will be the CPU connector, the slot should be near the top left of the motherboard, near the CPU. Slip the CPU connector into the slot, and the latch should hook on. 
+
+3.5 Installing CPU cooler
+=========================
+3.5.1 Introduction
+------------------
+Now the next step is varied based on the motherboard and CPU, so this step may be different for yours. Be sure to read the manual given to you based on whether you are using a stock cooler or an aftermarket cooler. For this section we will refer do the two most recent sockets, Intel's LGA1151 and AMD's AM4 socket. Both stock coolers have similar installation, there may only be one extra step for AMD users. Take note that while the stock coolers are similar in design, you cannot switch between them. An AMD stock cooler will not work on an Intel motherboard, or vice versa. AMD motherboards sometimes have a mounting bracket already installed, unscrew these brackets from your motherboard.
+
+3.5.2 Installation
+------------------
+
+1.	Now, both stock coolers have four screws in each corner. Line up the screws into the open holes surrounding the CPU.
+
+2.	Gently place the cooler on top of the CPU.
+
+3.	Begin screwing in the CPU cooler in the cross-method until all are screwed in halfway, then tight them so that the cooler is firmly in place, but be wary of over-tightening. 
+
+4.	Take the cable coming from the stock cooler and look for pins on the motherboard that are labeled "CPU_FAN". Take your cable and slide them into the pins. This will provide power to the stock cooler and ensure it works.
