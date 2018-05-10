@@ -60,6 +60,28 @@ The next step requires caution and double checking before proceeding. Failure to
 
 5.	The next connector will be the CPU connector, the slot should be near the top left of the motherboard, near the CPU. Slip the CPU connector into the slot, and the latch should hook on. 
 
+3.4 Installing the RAM
+======================
+3.4.1 Introduction
+------------------
+The next step is placing in the RAM. Depending on your purchase, you may have one or two sticks of RAM (or more, but general consumers usually purchase one or two due to cost efficiency). This will be one of the few steps where you will need to apply some force, but a delicate amount of force. Look at your RAM stick(s) and examine the gold pins at the bottom. There should be a little gap between them. Now look at the motherboard and see the RAM slots, and there should be a protruding spot, inverse of the RAM stick. Figure 5 should explain the orientation.
+
+|RAMpicture|
+
+*Figure 5*
+
+3.4.2 Installation
+-------------------
+1.	There should also be two latches on the sides of the slot, pull them gently back so that they are at an angle. Line up the RAM stick on the RAM slot so the protruding spot lines up with the gap. 
+
+2.	Gently apply force on both sides of the RAM stick. 
+3.	As you push down on both sides of the RAM, you should notice the latches move and you will hear an audible click. If both latches are back to their proper upright orientation, you will know the RAM is seated properly.
+
+4.	If only one is latched, you will need to start over and make sure you are applying enough pressure on both ends of the stick.
+
+5.	Repeat this entire step for however many RAM sticks you have.
+
+
 3.5 Installing CPU cooler
 =========================
 3.5.1 Introduction
