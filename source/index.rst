@@ -8,8 +8,7 @@ Table of Contents
 
 .. toctree::
    :maxdepth: 1
-
-   TitlePage
+   
    ChapterOne
    ChapterTwo
    ChapterThree
