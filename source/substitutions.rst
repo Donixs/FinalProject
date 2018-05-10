@@ -7,3 +7,7 @@
 .. |PSUpicture| image:: images/PSUpicture.jpg
     :alt: A demonstrative picture of screwing a PSU into place.
     :scale: 50 %
+
+.. |NvidiaGraph| image:: images/NvidiaGraph.jpg
+    :alt: Quartly reports of Nvidia's financial trends and gains.
+    :scale: 50 %
