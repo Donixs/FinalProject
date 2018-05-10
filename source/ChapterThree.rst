@@ -52,7 +52,7 @@ The next step requires caution and double checking before proceeding. Failure to
 
 |CPUpicture|
 
-Figure 4(Saunders 2014)
+*Figure 4(Saunders 2014)*
 
 3.	Pull down the latch and then begin slowly but firmly pulling down the lever. You should feel pressure building up on the CPU, this is fine as the latch is ensuring the CPU is making contact the motherboard. Once the latch is completely pulled down, slip the hook into the socket so it does not lift again.
 
