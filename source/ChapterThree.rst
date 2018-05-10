@@ -114,3 +114,30 @@ All motherboards come with a system panel that allow you to connect the cables f
 3.6.2 Installtion
 ------------------
 Gently slide the cables onto the pins once orientation has been determined.
+
+
+3.7 Installing Graphics Card
+=============================
+3.7.1 Introduction
+-------------------
+Graphic cards are components that render and display content on monitors or TVs. They are designed to fit into PCIE slots but can vary in size and length. Some graphic cards require power cables from the PSU so have the PSU to PCIE cables ready.
+
+3.7.2 Installation
+-------------------
+
+1.	Begin by taking off any plastic layering that may be on the graphics card. There should also be a plastic cap over the golden pins, as depicted in figure 7.
+ 
+ |GPUpicture|
+ 
+*Figure 7*
+
+
+2.	Your computer case should have thin plastic covering acting as exhaust ports, much like the picture below. Depending on the size of your graphics card, remove the screws keeping the PCIE covers in place that are closest to the top PCIE slot (the black line with the latch as pictured below). Generally, two covers are enough to remove. 
+
+|PCIEpicture|
+
+*Figure 8*
+
+3.	Once the covers are removed, slide the graphics card's gold pin connector into the PCIE slot, ensuring it has been oriented. An audible click should be heard once the graphics card is fully inserted into the PCIE slot. The metal cover at the end of the graphics card should effectively replace the removed covers.
+
+4.	If your graphics card requires additional power, grab the 6+2 pin cable from the PSU and attach it into the power slots of the graphics card.
