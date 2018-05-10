@@ -32,6 +32,6 @@ The PSU attaches to the back of the inside of the case, and depending on how mod
 2. Once the PSU is installed, there should be a provided outlet plug from the PSU. Plug the socket end into the PSU, and the outlet end into a grounded source.
 3. Leave the PSU power switch on O. See the accompanying figure (3).
 
-.. figure:: images/PSUpicture.jpg
+|PSUpicture|
 
 *Figure 3 (Strohmeyer 2011)*
