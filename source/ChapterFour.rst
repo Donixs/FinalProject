@@ -6,6 +6,7 @@ Preface: This section needs to be completed on a device other than the computer 
 4.1 Installing Windows
 ======================
 This guide will focus on the installation of Windows through a USB. If you wish to use a disk installation, you will either need to prepare the installation of a CD reader into your computer or buy a USB CD reader. Microsoft created a guide on how to create an installation device on your USB in the link below.
+
 https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/install-windows-from-a-usb-flash-drive
 
 4.2 Installing drivers
@@ -19,8 +20,10 @@ Along with the USB for Windows installation, you should have at least a 2GB USB 
 4.2.2 Graphic card drivers
 --------------------------
 To download the latest drivers for your graphics card, go to their website follow their steps to determining the right driver for you.
+
 Nvidia: https://www.geforce.com/drivers
-AMD: `http://support.amd.com/en-us/download <http://support.amd.com/en-us/download>`_
+
+AMD: http://support.amd.com/en-us/download
 
 
 4.3 Wrapping up
